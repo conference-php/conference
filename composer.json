@@ -1,0 +1,11 @@
+{
+    "name": "conference/conference",
+    "description": "Video conferencing library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keven",
+            "email": "hello@keven.fr"
+        }
+    ]
+}
