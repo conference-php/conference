@@ -4,5 +4,5 @@ namespace Conference;
 
 interface ConferenceInterface
 {
-    public function getGlobalId(): string;
+    public function getGlobalID(): string;
 }
